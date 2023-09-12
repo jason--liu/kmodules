@@ -7,7 +7,7 @@
 #include <linux/uuid.h>
 #include <linux/mm.h>
 
-/* https : //gitee.com/solo-king/linux-kernel-base-usage/blob/master/flagstaff/rbtreeTest.c */
+/* https://gitee.com/solo-king/linux-kernel-base-usage/blob/master/flagstaff/rbtreeTest.c */
 
 struct my_data {
 	u8 key;
